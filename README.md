@@ -1,5 +1,5 @@
 ### About me
-I am a Computer Science student at The University of Auckland.<br/>
+I'm in my final year studying Computer Science at The University of Auckland.<br/>
 I'm always open for opportunities, and to learn new things!.<br/>
 <br/>
 I am proficient in Python and is interested in web scraping and data analysis.<br/>
