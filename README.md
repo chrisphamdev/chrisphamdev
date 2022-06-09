@@ -28,9 +28,7 @@ I am proficient in Python and is interested in web scraping and data analysis.<b
 
 ### Github Activity
 
-<a href="https://github.com/chrisphamdev">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrisphamdev&theme=tokyonight" />
-  </a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chrisphamdev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://github.com/chrisphamdev">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisphamdev&show_icons=true&theme=tokyonight&line_height=27"/>
