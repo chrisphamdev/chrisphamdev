@@ -1,5 +1,5 @@
 ### About me
-I'm currently working at Laybuy as a data engineer. Designing pipelines, maintaining models and ocasionally getting involved in ML.<br/>
+I'm currently working at Harmoney as a data engineer. Designing pipelines, maintaining models and ocasionally getting involved in ML.<br/>
 I'm always open for opportunities, and to learn new things!.<br/>
 <br/>
 I am proficient in Python and is interested in web scraping and data analysis.<br/>
